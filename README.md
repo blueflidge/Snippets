@@ -1,2 +1,2 @@
-# Test
-Testrepo for Tim
+# Snippets for Powershell 
+e.g. AD, Exchange
